@@ -2,15 +2,15 @@
 # Be aware that even a small syntax error here can lead to failures in output
 #
 
-template: "online-cv"
-skin: "blue"
+template: online-cv
+skin: blue
 
 # Personal Information
 basic_info:
 
     # Your full name
-    first_name: Jean.
-    last_name: Aguiluz.
+    first_name: Jean
+    last_name: Aguiluz
     
     # Define yourself in 4-5 words
     motto: me gusta aprender,nunca es demasiado tarde.
@@ -38,7 +38,7 @@ basic_info:
     github: jeanAguiluz
     
     twitter: '---' #optional
-    stack-overflow: jean Aguiluz # Number/Username, e.g. 123456/alandoe
+    stack-overflow: --- # Number/Username, e.g. 123456/alandoe
 
     # Languages you speak, levels include: Native, Professional
     languages:
@@ -80,41 +80,6 @@ experiences:
         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
         error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: ---
-      time: ---
-      company: ---
-      # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 # Your project portfolio
 projects:
@@ -132,7 +97,7 @@ projects:
         # optional
         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
         link: "https://github.com/jeanAguiluz/FINALIZADO-Instagram-Photo-Feed-con-Bootstrap-jeanAguiluz.git"
-        tagline: "Plantilla web adaptable desarrollada con Bootstrap que simula un post de Instagram.."
+        tagline: "Plantilla web adaptable desarrollada con Bootstrap que simula un post de Instagram."
 
       - title: HTML Form 
         # optional
