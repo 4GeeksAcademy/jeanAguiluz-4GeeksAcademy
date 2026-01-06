@@ -66,20 +66,7 @@ education:
       details: |
        Actualmente estudio desarrollo web full stack en 4Geeks Academy, donde adquiero experiencia práctica en la creación de aplicaciones web utilizando HTML5, CSS, JavaScript y otras tecnologías del ecosistema moderno. Me enfoco en aplicar buenas prácticas, fortalecer mis habilidades técnicas y aportar valor real en entornos de trabajo colaborativos.
 # Your previous job experiences or volunteer
-experiences:
-    - role: --
-      time: --
-      company: ---
-      # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
+experiences: []
 
 # Your project portfolio
 projects:
